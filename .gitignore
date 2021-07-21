@@ -1,4 +1,6 @@
 beta_simulator_linux
 data/IMG
-run15
+data2/IMG
+data_recovery/IMG
+run*
 .vscode
