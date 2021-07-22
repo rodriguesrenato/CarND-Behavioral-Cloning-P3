@@ -10,15 +10,19 @@ In this project, a deep neural network was trained to clone driving behaviors an
 
 Udacity has provided a simulator where you can drive a car around a track for data collection. Image data and steering angles were used to train a neural network and then this model is used to drive the car autonomously around the track.
 
+This is the result of the trained model driving autonomously the car in the simulation:
+
+![](run17.gif)
+
 This project contains the following files:
-| File | Description|
-|---|---|
-|  `model.py`             | Script used to create and train the model |
-|  `training_model.ipynb` | Notebook version to create and train the model |
+| File                    | Description                                      |
+|-------------------------|--------------------------------------------------|
+|  `model.py`             | Script used to create and train the model        |
+|  `training_model.ipynb` | Notebook version to create and train the model   |
 |  `drive.py`             | Script to drive the car in the Udacity simulator |
-|  `model.h5`             | The trained Keras model |
-|  `writeup_report.md`    | A report writeup file  |
-| `video.mp4`            | The video recording the vehicle driving autonomously around the track for one full lap |
+|  `model.h5`             | The trained Keras model                          |
+|  `writeup_report.md`    | A report writeup file                            |
+|  `run17.mp4`            | The video recording the vehicle driving autonomously around the track for one full lap |
 
 The goals / steps of this project are the following:
 
